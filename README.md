@@ -14,7 +14,7 @@ Installation Instructions:
   Installation:
     1. Clone the repository:
       bash
-      git clone https://github.com/Rushani22/heart-failure-prediction-streamlit.git
+      git clone [https://github.com/Rushani22/heart-failure-prediction-streamlit.git](https://github.com/Rushani22/Heart_Failure_Prediction_Streamlit/tree/main)
     2. Navigate into the project directory:
        cd heart-failure-prediction-streamlit
     3. Install dependencies:
